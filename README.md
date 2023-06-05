@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaxSanguino
+- 👋 Hi, I’m Sanguino
 - 👀 I’m interested in almost all creative endeavors
 - 🌱 I’m currently learning the absolute basics of code and programming with the intention of opening a potential career path
 - 💞️ I’m looking to collaborate on learning the basics
